@@ -2,6 +2,10 @@ package assignment6;
 
 /* Database connectivity
  * Lucas de Morais Tramasso
+
+ This program creates an interface to manage a simple database with simple fields as seen below.
+ It uses mySQL, make sure to configure the driver and set the right information in order to connect.
+ Although it is simple, this program gives a good base for javafx interface and database connectivity. 
  */
 
 
